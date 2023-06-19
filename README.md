@@ -7,8 +7,13 @@ To start the filter on the ribbon, I'll go to the Data tab and click Advanced. I
 
 
 
-For Python Assignment,used colab to do this task. The built in library of Colab has been used, so no need to install any libraies.
-For K-means clustering, used elbow method to find out the optimal value of K.
+For Python Assignment,used colab to do this task. The following built in library of Colab has been used so no need to install any libraies.
+
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd 
+
+For K-means clustering, implemeted elbow method to find out the optimal value of K.
 
 
 
