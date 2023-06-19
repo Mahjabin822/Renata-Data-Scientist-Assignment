@@ -7,13 +7,7 @@ After completing the process, we can see that  those top income values of sheet1
 
 
 
-For Python Assignment,used colab to do this task. The following built in library of Colab has been used so no need to install any additional libraries.
-
-import numpy as np ...
-import matplotlib.pyplot as plt...
-import pandas as pd ...
-
-For K-means clustering, implemeted elbow method to find out the optimal value of K.
+For Python Assignment,used colab to do this task. The built in library of Colab has been used so no need to install any additional libraries.For K-means clustering, implemeted elbow method to find out the optimal value of K.
 
 
 
